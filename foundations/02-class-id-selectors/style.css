@@ -1,0 +1,15 @@
+#one{
+    font-size: 36px;
+    color: blue;
+}
+#another{
+    background-color: lightgreen;
+    font-weight: bold;
+}
+.odd{
+    background-color: lightpink;
+    font-family: Verdana,DeJaVu Sans,sans-serif;
+}
+.third {
+    font-size: 24px;
+}
